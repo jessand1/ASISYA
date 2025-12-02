@@ -14,7 +14,7 @@ using ProviderOptimizer.Application;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// ================= DataBase ==================
+// ================= DataBase. ==================
 var connectionString = builder.Configuration["ConnectionString"];
 
 builder.Services.AddDbContext<ProviderOptimizerDbContext>(options =>
