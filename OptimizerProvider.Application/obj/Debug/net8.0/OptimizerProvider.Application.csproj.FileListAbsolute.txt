@@ -1,0 +1,15 @@
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\bin\Debug\net8.0\OptimizerProvider.Application.deps.json
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\bin\Debug\net8.0\OptimizerProvider.Application.dll
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\bin\Debug\net8.0\OptimizerProvider.Application.pdb
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\bin\Debug\net8.0\OptimizerProvider.Domain.dll
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\bin\Debug\net8.0\OptimizerProvider.Domain.pdb
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\obj\Debug\net8.0\OptimizerProvider.Application.csproj.AssemblyReference.cache
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\obj\Debug\net8.0\OptimizerProvider.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\obj\Debug\net8.0\OptimizerProvider.Application.AssemblyInfoInputs.cache
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\obj\Debug\net8.0\OptimizerProvider.Application.AssemblyInfo.cs
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\obj\Debug\net8.0\OptimizerProvider.Application.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\obj\Debug\net8.0\Optimize.1041820E.Up2Date
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\obj\Debug\net8.0\OptimizerProvider.Application.dll
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\obj\Debug\net8.0\refint\OptimizerProvider.Application.dll
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\obj\Debug\net8.0\OptimizerProvider.Application.pdb
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Application\obj\Debug\net8.0\ref\OptimizerProvider.Application.dll

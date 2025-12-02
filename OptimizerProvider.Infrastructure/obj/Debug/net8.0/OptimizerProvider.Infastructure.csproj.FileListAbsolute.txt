@@ -1,0 +1,17 @@
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\bin\Debug\net8.0\OptimizerProvider.Infastructure.deps.json
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\bin\Debug\net8.0\OptimizerProvider.Infastructure.dll
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\bin\Debug\net8.0\OptimizerProvider.Infastructure.pdb
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\bin\Debug\net8.0\OptimizerProvider.Domain.dll
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\bin\Debug\net8.0\OptimizerProvider.Domain.pdb
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\obj\Debug\net8.0\OptimizerProvider.Infastructure.csproj.AssemblyReference.cache
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\obj\Debug\net8.0\OptimizerProvider.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\obj\Debug\net8.0\OptimizerProvider.Infastructure.AssemblyInfoInputs.cache
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\obj\Debug\net8.0\OptimizerProvider.Infastructure.AssemblyInfo.cs
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\obj\Debug\net8.0\OptimizerProvider.Infastructure.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\obj\Debug\net8.0\Optimize.CA9EAAAE.Up2Date
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\obj\Debug\net8.0\OptimizerProvider.Infastructure.dll
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\obj\Debug\net8.0\refint\OptimizerProvider.Infastructure.dll
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\obj\Debug\net8.0\OptimizerProvider.Infastructure.pdb
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\obj\Debug\net8.0\ref\OptimizerProvider.Infastructure.dll
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\bin\Debug\net8.0\OptimizerProvider.Infastructure.runtimeconfig.json
+C:\Proyectos\ProyectosJS\ASISYA\ProviderOptimizer\OptimizerProvider.Infastructure\obj\Debug\net8.0\OptimizerProvider.Infastructure.genruntimeconfig.cache

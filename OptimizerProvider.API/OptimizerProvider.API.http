@@ -1,0 +1,6 @@
+@OptimizerProvider.API_HostAddress = http://localhost:5160
+
+GET {{OptimizerProvider.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="OptimizerProvider.API/OptimizerProvider.API.csproj" />
+  <Project Path="OptimizerProvider.Application/OptimizerProvider.Application.csproj" />
+  <Project Path="OptimizerProvider.Domain/OptimizerProvider.Domain.csproj" />
+  <Project Path="OptimizerProvider.Infrastructure/OptimizerProvider.Infrastructure.csproj" />
+  <Project Path="TestProject/TestProject.csproj" Id="dfbec929-45f0-44ae-94be-ec196d2ba21b" />
+</Solution>
