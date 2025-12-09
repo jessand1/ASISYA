@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: optimizer-api
+  labels:
+    app: optimizer-api
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: optimizer-api
+  template:
+    metadata:
+      labels:
+        app: optimizer-api
+    spec:
+      containers:
+        - name: optimizer-api
+          image: 084449383255.dkr.ecr.us-east-1.amazonaws.com/optimizerprovider:latest
+          ports:
+            - containerPort: 80
